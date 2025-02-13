@@ -1,0 +1,1 @@
+﻿INSERT INTO "public"."RDPAccounts" ("Id", "UserId", "Name", "Host", "Account", "Pwd", "Classification") VALUES ('dbc7d616b8b24340b1617f4018ff13c4', NULL, 'name', '81.71.66.200:23487', 'Admin', 'pSP8j;VThGY&5l6vRFg@', NULL);

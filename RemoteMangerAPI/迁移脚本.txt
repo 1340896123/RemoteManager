@@ -1,0 +1,4 @@
+﻿dotnet ef migrations remove --project RemoteMangerAPI
+dotnet ef database update --project RemoteMangerAPI
+dotnet ef migrations add InitialCreate --project RemoteMangerAPI
+dotnet ef database update --project RemoteMangerAPI

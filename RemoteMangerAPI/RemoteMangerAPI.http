@@ -1,0 +1,6 @@
+@RemoteMangerAPI_HostAddress = http://localhost:5239
+
+GET {{RemoteMangerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
